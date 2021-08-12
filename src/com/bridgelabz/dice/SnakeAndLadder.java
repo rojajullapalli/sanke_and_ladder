@@ -34,5 +34,4 @@ public class SnakeAndLadder {
             System.out.println("The Position of Player:" +position);
         }
     }
-
 }
